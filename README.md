@@ -12,7 +12,7 @@
 
 ## 🧠 About
 
-A hands-on learning project exploring two fundamental Generative Adversarial Network architectures using PyTorch and the CelebA dataset.
+A hands-on learning project exploring two fundamental GAN architectures using PyTorch and the CelebA dataset.
 
 ## 🚀 Implementations
 
@@ -22,21 +22,21 @@ A hands-on learning project exploring two fundamental Generative Adversarial Net
 - **Discriminator:** Classifies images as real or fake.
 - Both networks compete through adversarial training.
 
-<text>**Status:** ✅ Implemented</text>
+**Status:** ✅ Implemented
 
 ### 2. DCGAN (Deep Convolutional GAN)
 - Uses convolutional neural networks for image generation.
-- **Generator:** Uses Transposed Convolutional layers to generate images.
-- **Discriminator:** Uses Convolutional layers to classify real and fake images.
+- **Generator:** Uses Transposed Convolutional layers.
+- **Discriminator:** Uses Convolutional layers.
 - Learns spatial features to generate more realistic images.
 
-<text>**Status:** 🔄 In Progress</text>
+**Status:** 🔄 In Progress
 
 ## 🔄 Working Flowcharts
-![Vanilla GAN and DCGAN Working Flow](images/gan_workflow.png)
-The infographic below illustrates the complete working and training flow of both architectures.
 
-![Vanilla GAN and DCGAN Working Flow](images/gan_workflow.png)
+The following infographic illustrates the architecture and training flow of Vanilla GAN and DCGAN.
+
+![PyTorch GANs Architecture and Training Flows](<PyTorch GANs_ Architecture and Training Flows.png>)
 
 ## 🛠️ Tech Stack
 
@@ -47,6 +47,12 @@ Python • PyTorch • Torchvision • NumPy • Matplotlib • Google Colab
 **CelebA** – 202,599 celebrity face images used for image generation experiments. Dataset is not included in this repository.
 
 ---
+
+<div align="center">
+
+**Learn • Build • Experiment • Generate**
+
+</div>
 
 <div align="center">
 
