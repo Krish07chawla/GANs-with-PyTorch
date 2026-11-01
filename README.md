@@ -36,7 +36,7 @@ A hands-on learning project exploring two fundamental GAN architectures using Py
 
 The following infographic illustrates the architecture and training flow of Vanilla GAN and DCGAN.
 
-![PyTorch GANs Architecture and Training Flows](<PyTorch GANs_ Architecture and Training Flows.png>)
+![PyTorch GANs Architecture and Training Flows](<GAN Architecture and Working Flow.png>)
 
 ## 🛠️ Tech Stack
 
